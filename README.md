@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Angus McDonald
-- 👀 I'm a back-end developer with experience in Python/Django
-- 🌱 I'm self-taught and have recently completed a project building the back-end to an ecommerce website.
+- Hi, I’m Angus McDonald
+- I'm a back-end developer with experience in Python/Django
+- I'm self-taught and have recently completed a project building the back-end to an ecommerce website.
+- I'm currently working on building a simple booking app to help friends of mine more easily manage thier holiday homes. I.e. which loved one is staying at the property, when and for how long.
+- I'll be building the back-end first and plan on learning HTML, CSS and Javascript to build a beautiful and extremely easy to use front-end.
+- Get in contact with me via email - angusroymcdonald@gmail.com
 
 <!---
 banga87/banga87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
