@@ -6,12 +6,25 @@ Enthusiastic and accomplished professional transitioning into Software Developme
 With over a decade of professional experience in Sales, Sales Management, Operations, and leading my own tech startup, I offer a unique perspective to the developer role. My deep understanding of business operations, team dynamics, and the software development life cycle, combined with my technical skills, allows me to approach problem-solving from a comprehensive perspective. I'm well-equipped to understand client needs, work effectively in team environments, and contribute to strategic planning.
 
 <h2>Skills</h2>
-Proficient in HTML, CSS, JavaScript, React, Python, Django, PostgreSQL
-Strong understanding of Data Structures and Algorithms, Object-Oriented Programming, and 'Clean Code' concepts
-Excellent problem-solving and analytical abilities
-Proven leadership and team-building skills
-Exceptional project management and operations experience
-Excellent verbal and written communication skills
+Hard skills: <br>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Python</li>
+  <li>Django</li>
+  <li>PostgreSQL</li>
+</ul> <br>
+Soft(er) skills: <br>
+<ul>
+  <li>Strong understanding of Data Structures and Algorithms</li>
+  <li>Object Oriented Programming</li>
+  <li>'Clean Code' Concepts</li>
+  <li>Leadership and team building</li>
+  <li>Project Management & Operations</li>
+  <li>Excellent verbal and written communication skills</li>
+</ul>
 
 <h2>Projects of Note</h2><br>
 <a href="https://github.com/banga87/storefront3_v2">Django: Ecommerce Backend</a><br>
