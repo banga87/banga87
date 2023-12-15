@@ -2,7 +2,9 @@
 <h2>Background</h2>
 10 years in Software Sales.<br>
 1 year in intense short-course Computer Science and Software Engineering courses, YouTube, language and frameworks docs, etc.<br>
-Now working for <a href="https://www.swipejobs.com/">SwipeJobs</a> in testing where we handle over 170 microservices, 12 environments and over 3000 releases per year with a testing team of 6.
+Worked at <a href="https://www.swipejobs.com/">SwipeJobs</a> in QA and testing for 6 months where we handle over 170 microservices, 12 environments and over 3000 releases per year with a testing team of 6.<br>
+
+NOW: Building a consumer facing product solo --> Aiming to hire soon.
 
 <h2>Projects of Note</h2><br>
 <a href="https://angus-mcdonald-portfolio-website.netlify.app/">Portfolio Website</a><br>
