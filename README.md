@@ -10,6 +10,7 @@ NOW: Building a consumer facing product solo --> Aiming to hire soon.
 <a href="https://angus-mcdonald-portfolio-website.netlify.app/">Portfolio Website</a><br>
 <a href="https://github.com/banga87/storefront3_v2">Django: Ecommerce Backend</a><br>
 <a href="https://github.com/banga87/spotify-clone-2">React: Spotify App</a><br>
+<a href="https://fairytalefactory.io/">Fairytale Factory</a><br>
 <br>
 <!---
 banga87/banga87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
